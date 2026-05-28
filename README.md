@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1400&color=38BDF8&center=true&vCenter=true&width=700&lines=Estudiante+de+6to+ano+%7C+Tecnico+en+Desarrollo+de+Software;Aprendiendo+y+construyendo+cosas+reales;Full+Stack+en+progreso+%7C+Costa+Rica" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1400&color=38BDF8&center=true&vCenter=true&width=700&lines=Estudiante+de+6to+ano+%7C+Tecnico+en+Desarrollo+Web;Aprendiendo+y+construyendo+cosas+reales;Full+Stack+en+progreso+%7C+Costa+Rica" alt="Typing SVG" />
 
 </div>
 
@@ -25,7 +25,7 @@
 
 ## Sobre Mí
 
-Soy estudiante de sexto año sacando el técnico en Desarrollo de Software en Costa Rica. He ido aprendiendo poco a poco a lo largo del colegio, y en los últimos años ya me siento cómodo construyendo cosas reales — páginas web, APIs sencillas, y proyectos personales que me han enseñado más que cualquier clase.
+Soy estudiante de sexto año sacando el técnico en Desarrollo Web en Costa Rica. He ido aprendiendo poco a poco a lo largo del colegio, y en los últimos años ya me siento cómodo construyendo cosas reales — páginas web, APIs sencillas, y proyectos personales que me han enseñado más que cualquier clase.
 
 Me gusta mucho el desarrollo web, tanto el frontend como el backend, aunque todavía estoy aprendiendo bastante. Fuera del código soy gamer, me gustan los servidores de Minecraft y la música.
 
@@ -162,7 +162,7 @@ Me gusta mucho el desarrollo web, tanto el frontend como el backend, aunque toda
     </tr>
     <tr>
       <td><strong>Inglés</strong></td>
-      <td><img src="https://img.shields.io/badge/Intermedio--Avanzado-38BDF8?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/badge/Intermedio-38BDF8?style=flat-square" /></td>
     </tr>
   </tbody>
 </table>
