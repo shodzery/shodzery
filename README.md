@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f3460,70:16213e,100:0d1117&height=220&section=header&text=Juan%20Pablo%20Morales%20Herrera&fontSize=42&fontColor=e2e8f0&fontAlignY=40&desc=Estudiante%20de%20Desarrollo%20Web%20%7C%20Costa%20Rica&descAlignY=60&descSize=15&descColor=94a3b8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f3460,70:16213e,100:0d1117&height=220&section=header&text=Juan%20Pablo%20Morales%20Herrera&fontSize=42&fontColor=e2e8f0&fontAlignY=40&desc=Desarrollador%20Full%20Stack%20%7C%20Especialista%20en%20Ciberseguridad%20%7C%20Costa%20Rica&descAlignY=60&descSize=15&descColor=94a3b8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1400&color=38BDF8&center=true&vCenter=true&width=750&lines=Estudiante+de+Desarrollo+Web;Apasionado+por+el+Frontend+y+el+Backend;Constructor+de+proyectos+reales+desde+el+colegio;Creando+el+Futuro+Digital+desde+Costa+Rica;Pasion+por+el+codigo%2C+la+seguridad+y+el+cafe" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1400&color=38BDF8&center=true&vCenter=true&width=750&lines=Arquitecto+de+Soluciones+Web+Escalables;Experto+en+Ciberseguridad+Ofensiva+y+Defensiva;Desarrollador+Full+Stack+%7C+Constructor+de+SaaS;Creando+el+Futuro+Digital+desde+Costa+Rica;Pasion+por+el+codigo%2C+la+seguridad+y+el+cafe" alt="Typing SVG" />
 
 </div>
 
@@ -24,13 +24,13 @@
 
 ---
 
-## Sobre Mí
+## Sobre Mi
 
-Soy estudiante de Desarrollo Web con base en Costa Rica, enfocado en construir aplicaciones web, APIs y proyectos personales reales. Combino lo que aprendo en el área académica con práctica constante por mi cuenta, explorando tanto el frontend como el backend y la infraestructura cloud-native con Docker y entornos Linux.
+Soy un Desarrollador Full Stack y Especialista en Ciberseguridad con base en Costa Rica, enfocado en construir aplicaciones web de alto rendimiento, APIs seguras y plataformas SaaS modernas. Combino un profundo entendimiento de arquitecturas frontend y backend con un compromiso serio hacia la seguridad digital, tanto ofensiva como defensiva.
 
-Mi trabajo abarca desde el diseño de interfaces con React y Next.js, hasta la ingeniería de backends con Node.js, y el despliegue de proyectos en la nube. Abordo cada proyecto con una mentalidad de ingeniero: código limpio, estructura escalable y una obsesión por el rendimiento y la seguridad.
+Mi trabajo abarca desde el diseno de interfaces de usuario complejas con React y Next.js, hasta la ingenieria de backends resilientes con Node.js, y la arquitectura de infraestructura cloud-native con Docker y entornos Linux. Abordo cada proyecto con una mentalidad de ingenieria: codigo limpio, estructura escalable y una obsesion por el rendimiento y la seguridad.
 
-Más allá del terminal, soy un gamer apasionado, creador de mods para Minecraft, actor de voz aficionado, productor de audio y un aprendiz de por vida que cree que el buen software es tanto funcional como intencional. Construyendo orgullosamente desde Costa Rica para el mundo.
+Mas alla del terminal, soy un gamer apasionado, creador de mods para Minecraft, actor de voz aficionado, productor de audio y un aprendiz de por vida que cree que el buen software es tanto funcional como intencional. Construyendo orgullosamente desde Costa Rica para el mundo.
 
 ---
 
@@ -40,7 +40,7 @@ Más allá del terminal, soy un gamer apasionado, creador de mods para Minecraft
   <thead>
     <tr>
       <th align="left">Proyecto</th>
-      <th align="left">Descripción</th>
+      <th align="left">Descripcion</th>
       <th align="left">Estado</th>
       <th align="left">Stack</th>
     </tr>
@@ -48,7 +48,7 @@ Más allá del terminal, soy un gamer apasionado, creador de mods para Minecraft
   <tbody>
     <tr>
       <td><a href="https://yuutiers.xyz"><strong>YuuTiers</strong></a></td>
-      <td>La plataforma definitiva de tierlists para la comunidad de Minecraft PvP. Rankings comunitarios, votaciones en tiempo real y clasificación personalizada por modalidad de juego. Construida para rendimiento y escala.</td>
+      <td>La plataforma definitiva de tierlists para la comunidad de Minecraft PvP. Rankings comunitarios, votaciones en tiempo real y clasificacion personalizada por modalidad de juego. Construida para rendimiento y escala.</td>
       <td><img src="https://img.shields.io/badge/En%20Desarrollo-f59e0b?style=flat-square&logoColor=white" /></td>
       <td>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -58,50 +58,61 @@ Más allá del terminal, soy un gamer apasionado, creador de mods para Minecraft
       </td>
     </tr>
     <tr>
-      <td><strong>Proyectos Académicos</strong></td>
-      <td>Sistemas, páginas y aplicaciones desarrolladas a lo largo de mis estudios. Desde CRUDs y sistemas de inventario hasta proyectos más completos con autenticación y bases de datos relacionales.</td>
-      <td><img src="https://img.shields.io/badge/Varios-6b7280?style=flat-square&logoColor=white" /></td>
+      <td><strong>SecurePanel</strong></td>
+      <td>Dashboard web interno para monitorear y gestionar eventos de seguridad, logs del sistema y salud de infraestructura en tiempo real. Control de acceso por roles y automatizacion de alertas.</td>
+      <td><img src="https://img.shields.io/badge/Privado-6b7280?style=flat-square&logoColor=white" /></td>
       <td>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Plataforma SaaS Freelance</strong></td>
+      <td>Boilerplate SaaS modular con autenticacion, facturacion por suscripcion, arquitectura multi-tenant y panel de administracion. Disenado para acelerar lanzamientos de productos listos para produccion.</td>
+      <td><img src="https://img.shields.io/badge/En%20Progreso-38BDF8?style=flat-square&logoColor=white" /></td>
+      <td>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
       </td>
     </tr>
   </tbody>
 </table>
 
-> Más proyectos, experimentos y contribuciones open-source disponibles en mi perfil público de GitHub.
+> Mas proyectos, experimentos y contribuciones open-source disponibles en mi perfil publico de GitHub.
 
 ---
 
-## Estadísticas de GitHub
+## Estadisticas de GitHub
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=annushkaz&locale=es&mode=daily&theme=tokyonight&hide_border=true&border_radius=6&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="160" alt="Racha de GitHub" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=annushkaz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=6&icon_color=38BDF8&title_color=38BDF8&text_color=e2e8f0&include_all_commits=true&count_private=true&locale=es" height="160" alt="Estadísticas de GitHub" />
+<img src="https://github-readme-stats.vercel.app/api?username=annushkaz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=6&icon_color=38BDF8&title_color=38BDF8&text_color=e2e8f0&include_all_commits=true&count_private=true&locale=es" height="160" alt="Estadisticas de GitHub" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annushkaz&layout=compact&theme=tokyonight&hide_border=true&border_radius=6&title_color=38BDF8&text_color=e2e8f0&langs_count=14&locale=es" height="150" alt="Lenguajes más usados" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annushkaz&layout=compact&theme=tokyonight&hide_border=true&border_radius=6&title_color=38BDF8&text_color=e2e8f0&langs_count=14&locale=es" height="150" alt="Lenguajes mas usados" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=annushkaz&theme=tokyo-night&hide_border=true&color=38BDF8&line=38BDF8&point=e2e8f0&area=true" alt="Gráfico de Actividad" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=annushkaz&theme=tokyo-night&hide_border=true&color=38BDF8&line=38BDF8&point=e2e8f0&area=true" alt="Grafico de Actividad" />
 
 </div>
 
 ---
 
-## Stack Tecnológico
+## Stack Tecnologico
 
-### Lenguajes de Programación
+### Lenguajes de Programacion
 
 <div align="left">
 
@@ -122,7 +133,7 @@ Más allá del terminal, soy un gamer apasionado, creador de mods para Minecraft
 
 </div>
 
-### Frameworks y Librerías Frontend
+### Frameworks y Librerias Frontend
 
 <div align="left">
 
@@ -242,14 +253,34 @@ Más allá del terminal, soy un gamer apasionado, creador de mods para Minecraft
   </thead>
   <tbody>
     <tr>
-      <td><strong>Español</strong> — Spanish</td>
+      <td><strong>Espanol</strong> — Spanish</td>
       <td>Lengua materna</td>
       <td><img src="https://img.shields.io/badge/Nativo-22c55e?style=flat-square" /></td>
     </tr>
     <tr>
-      <td><strong>Inglés</strong> — English</td>
+      <td><strong>Ingles</strong> — English</td>
       <td>Competencia profesional</td>
       <td><img src="https://img.shields.io/badge/Avanzado-38BDF8?style=flat-square" /></td>
+    </tr>
+    <tr>
+      <td><strong>Ruso</strong> — Russian / Русский</td>
+      <td>Principiante — En aprendizaje</td>
+      <td><img src="https://img.shields.io/badge/Aprendiendo-f59e0b?style=flat-square" /></td>
+    </tr>
+    <tr>
+      <td><strong>Portugues</strong> — Portuguese</td>
+      <td>Principiante — En aprendizaje</td>
+      <td><img src="https://img.shields.io/badge/Aprendiendo-f59e0b?style=flat-square" /></td>
+    </tr>
+    <tr>
+      <td><strong>Japones</strong> — Japanese / 日本語</td>
+      <td>Principiante — En aprendizaje</td>
+      <td><img src="https://img.shields.io/badge/Aprendiendo-f59e0b?style=flat-square" /></td>
+    </tr>
+    <tr>
+      <td><strong>Frances</strong> — French / Francais</td>
+      <td>Principiante — En aprendizaje</td>
+      <td><img src="https://img.shields.io/badge/Aprendiendo-f59e0b?style=flat-square" /></td>
     </tr>
   </tbody>
 </table>
@@ -259,56 +290,56 @@ Más allá del terminal, soy un gamer apasionado, creador de mods para Minecraft
 ## Actualmente Trabajando En
 
 ```text
-Desarrollo Web                       Construyendo aplicaciones y proyectos web mientras aprendo nuevas tecnologías.
+Desarrollo Full Stack Freelance      Entregando aplicaciones web de nivel productivo para clientes en Latinoamerica y el mundo.
 
-YuuTiers                             Mi proyecto personal más serio — plataforma de tierlists para la comunidad Minecraft PvP.
+Plataforma SaaS con Next.js          Construyendo un boilerplate SaaS multi-tenant con auth, billing, panel admin y capa de API.
 
-Aprendizaje Continuo                 Explorando nuevos frameworks, herramientas y buenas prácticas de desarrollo.
+Investigacion en Ciberseguridad      Explorando tecnicas de seguridad ofensiva, desafios CTF y endurecimiento de infraestructuras.
 
-Integracion de IA                    Conectando APIs de modelos de lenguaje a proyectos reales.
+Integracion de IA y Backends         Conectando APIs de modelos de lenguaje a productos reales — aplicaciones mas inteligentes.
 
-Sistemas Distribuidos                Aprendiendo sobre microservicios y arquitectura de software escalable.
+Sistemas Distribuidos                Profundizando en microservicios, colas de mensajes y arquitectura orientada a eventos.
 
-Open Source                          Contribuyendo a herramientas y frameworks que uso en el día a día.
+Contribuciones Open Source           Contribuyendo a herramientas y frameworks que uso a diario para devolver a la comunidad.
 ```
 
 ---
 
-## Áreas de Interés
+## Areas de Especialidad
 
 <table width="100%">
   <tr>
     <td valign="top" width="33%">
       <h4>Desarrollo Full Stack</h4>
       <ul>
-        <li>Arquitectura de aplicaciones web</li>
-        <li>Diseño de APIs RESTful y GraphQL</li>
-        <li>Server-Side Rendering y generación estática</li>
-        <li>Sistemas de autenticación (OAuth, JWT, 2FA)</li>
+        <li>Arquitectura SaaS y Multi-Tenancy</li>
+        <li>Diseno de APIs RESTful y GraphQL</li>
+        <li>Renderizado del lado del servidor y generacion estatica</li>
+        <li>Sistemas de autenticacion (OAuth, JWT, 2FA)</li>
         <li>Aplicaciones en tiempo real con WebSockets</li>
-        <li>Modelado de bases de datos</li>
+        <li>Modelado de bases de datos y optimizacion de consultas</li>
       </ul>
     </td>
     <td valign="top" width="33%">
       <h4>Ciberseguridad</h4>
       <ul>
-        <li>Pruebas de penetración y vulnerabilidades</li>
-        <li>Mitigación del OWASP Top 10</li>
-        <li>Análisis de tráfico de red</li>
+        <li>Pruebas de penetracion y evaluacion de vulnerabilidades</li>
+        <li>Mitigacion del OWASP Top 10</li>
+        <li>Analisis de trafico de red</li>
         <li>Endurecimiento de servidores Linux</li>
-        <li>CTF e investigación de seguridad</li>
+        <li>Competencias CTF e investigacion de seguridad</li>
         <li>Privacidad digital y OPSEC</li>
       </ul>
     </td>
     <td valign="top" width="33%">
       <h4>Infraestructura y DevOps</h4>
       <ul>
-        <li>Contenerización con Docker</li>
-        <li>Pipelines CI/CD</li>
+        <li>Contenerizacion con Docker y Kubernetes</li>
+        <li>Configuracion de pipelines CI/CD</li>
         <li>Despliegue en nube (AWS, DigitalOcean, Vercel)</li>
-        <li>Configuración de servidores y reverse proxy</li>
+        <li>Configuracion de proxy inverso y servidores</li>
         <li>Sistemas de monitoreo y logging</li>
-        <li>Infraestructura como código</li>
+        <li>Infraestructura como codigo con Terraform</li>
       </ul>
     </td>
   </tr>
@@ -329,15 +360,15 @@ Open Source                          Contribuyendo a herramientas y frameworks q
 
 ---
 
-## Intereses Más Allá del Código
+## Intereses Mas Alla del Codigo
 
 ```yaml
 Gaming:         Gamer competitivo y casual — Minecraft, FPS y juegos de estrategia
 Mods:           Creador de mods para Minecraft y herramientas para servidores PvP comunitarios
-Audio:          Actor de voz aficionado y productor de audio — narrativa a través del sonido
-Aprendizaje:    Siempre estudiando — sistemas distribuidos, inteligencia artificial y desarrollo web
-Cafe:           Un prerequisito para cualquier sesión productiva
-Costa Rica:     Orgulloso de representar y construir desde una de las naciones más innovadoras de Latinoamérica
+Audio:          Actor de voz aficionado y productor de audio — narrativa a traves del sonido
+Aprendizaje:    Siempre estudiando — sistemas distribuidos, inteligencia artificial y nuevos idiomas
+Cafe:           Un prerequisito para cualquier sesion productiva
+Costa Rica:     Orgulloso de representar y construir desde una de las naciones mas innovadoras de Latinoamerica
 ```
 
 ---
@@ -350,7 +381,7 @@ Costa Rica:     Orgulloso de representar y construir desde una de las naciones m
 
 <div align="center">
 
-> "El código es como el arte — pero que funciona."
+> "El codigo es como el arte — pero que funciona."
 >
 > — Juan Pablo Morales Herrera
 
