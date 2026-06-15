@@ -64,7 +64,7 @@ Desarrollador Full Stack y especialista en ciberseguridad con base en Costa Rica
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-shodzery-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shodzery)&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-shodzery-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com)&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-sh0dzery-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-juanpablomh__omg-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/juanpablomh_omg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f3460,70:16213e,100:0d1117&height=100&section=footer" />
