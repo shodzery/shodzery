@@ -14,7 +14,7 @@
 
 ---
 
-Desarrollador Full Stack y especialista en ciberseguridad con base en Costa Rica. Construyo aplicaciones web de alto rendimiento, APIs seguras y plataformas SaaS modernas. Gamer, creador de mods para Minecraft y productor de audio.
+Desarrollador Full Stack y especialista en ciberseguridad con base en Costa Rica. Construyo aplicaciones web de alto rendimiento, APIs seguras y plataformas SaaS modernas. Gamer, creador de mods para Minecraft.
 
 ---
 
