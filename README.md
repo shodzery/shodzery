@@ -383,6 +383,6 @@ Costa Rica:     Orgulloso de representar y construir desde una de las naciones m
 
 > "El codigo es como el arte — pero que funciona."
 >
-> — Juan Pablo Morales Herrera
+> — Shodzery
 
 </div>
