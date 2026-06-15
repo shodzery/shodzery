@@ -7,8 +7,6 @@
 <div align="center">
 
 [![Visitas](https://komarev.com/ghpvc/?username=shodzery&label=Visitas&color=38BDF8&style=flat-square)](https://github.com/shodzery)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-juanpablomh__omg-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/juanpablomh_omg)&nbsp;
-[![Correo](https://img.shields.io/badge/Gmail-moralesherrerajuanpablo62-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:moralesherrerajuanpablo62@gmail.com)
 
 </div>
 
