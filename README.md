@@ -22,7 +22,7 @@ Desarrollador Full Stack y especialista en ciberseguridad con base en Costa Rica
 
 | Proyecto | Descripción |
 |---|---|
-| [**PROXIMAMENTE**]() |  |
+| [**PROXIMAMENTE**](https://github.shodzery.xyz) |  |
 | [**Shodzery Launcher**](https://launcher.shodzery.xyz) | Launcher personalizado para la comunidad. Instalación rápida, optimizada y lista para jugar. |
 | [**ShodTeam**](https://shodzery.xyz) | Sitio oficial del equipo. Hub central de proyectos, miembros y comunidad. |
 
