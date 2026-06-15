@@ -14,9 +14,9 @@
 
 <div align="center">
 
-[![Visitas al Perfil](https://komarev.com/ghpvc/?username=annushkaz&label=Visitas+al+Perfil&color=38BDF8&style=flat-square)](https://github.com/annushkaz)&nbsp;
-[![Seguidores](https://img.shields.io/github/followers/annushkaz?label=Seguidores&style=flat-square&color=38BDF8&labelColor=1e293b)](https://github.com/annushkaz)&nbsp;
-[![Estrellas](https://img.shields.io/github/stars/annushkaz?label=Estrellas+Totales&style=flat-square&color=38BDF8&labelColor=1e293b)](https://github.com/annushkaz)&nbsp;
+[![Visitas al Perfil](https://komarev.com/ghpvc/?username=shodzery&label=Visitas+al+Perfil&color=38BDF8&style=flat-square)](https://github.com/shodzery)&nbsp;
+[![Seguidores](https://img.shields.io/github/followers/shodzery?label=Seguidores&style=flat-square&color=38BDF8&labelColor=1e293b)](https://github.com/shodzery)&nbsp;
+[![Estrellas](https://img.shields.io/github/stars/shodzery?label=Estrellas+Totales&style=flat-square&color=38BDF8&labelColor=1e293b)](https://github.com/shodzery)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-juanpablomh__omg-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/juanpablomh_omg)&nbsp;
 [![Correo](https://img.shields.io/badge/Correo-moralesherrerajuanpablo62-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:moralesherrerajuanpablo62@gmail.com)
 
@@ -90,21 +90,21 @@ Mas alla del terminal, soy un gamer apasionado, creador de mods para Minecraft, 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=annushkaz&locale=es&mode=daily&theme=tokyonight&hide_border=true&border_radius=6&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="160" alt="Racha de GitHub" />
+<img src="https://streak-stats.demolab.com?user=shodzery&locale=es&mode=daily&theme=tokyonight&hide_border=true&border_radius=6&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="160" alt="Racha de GitHub" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=annushkaz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=6&icon_color=38BDF8&title_color=38BDF8&text_color=e2e8f0&include_all_commits=true&count_private=true&locale=es" height="160" alt="Estadisticas de GitHub" />
+<img src="https://github-readme-stats.vercel.app/api?username=shodzery&show_icons=true&theme=tokyonight&hide_border=true&border_radius=6&icon_color=38BDF8&title_color=38BDF8&text_color=e2e8f0&include_all_commits=true&count_private=true&locale=es" height="160" alt="Estadisticas de GitHub" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annushkaz&layout=compact&theme=tokyonight&hide_border=true&border_radius=6&title_color=38BDF8&text_color=e2e8f0&langs_count=14&locale=es" height="150" alt="Lenguajes mas usados" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shodzery&layout=compact&theme=tokyonight&hide_border=true&border_radius=6&title_color=38BDF8&text_color=e2e8f0&langs_count=14&locale=es" height="150" alt="Lenguajes mas usados" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=annushkaz&theme=tokyo-night&hide_border=true&color=38BDF8&line=38BDF8&point=e2e8f0&area=true" alt="Grafico de Actividad" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shodzery&theme=tokyo-night&hide_border=true&color=38BDF8&line=38BDF8&point=e2e8f0&area=true" alt="Grafico de Actividad" />
 
 </div>
 
@@ -353,8 +353,8 @@ Contribuciones Open Source           Contribuyendo a herramientas y frameworks q
 
 [![Instagram](https://img.shields.io/badge/Instagram-juanpablomh__omg-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juanpablomh_omg)&nbsp;
 [![Correo](https://img.shields.io/badge/Correo-moralesherrerajuanpablo62@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moralesherrerajuanpablo62@gmail.com)&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-Annushkaz-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-annushkaz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annushkaz)
+[![Discord](https://img.shields.io/badge/Discord-shodzery-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-shodzery-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shodzery)
 
 </div>
 
