@@ -16,6 +16,14 @@ Desarrollador Full Stack y especialista en ciberseguridad con base en Costa Rica
 
 ---
 
+## Sobre mí
+
+Actualmente soy el fundador y propietario de **ShodTeam**, una organización enfocada en el desarrollo de software, proyectos open source, herramientas para desarrolladores, experiencias para gaming y tecnologías impulsadas por inteligencia artificial.
+
+También lidero el desarrollo de **ShodChatAI**, una plataforma de inteligencia artificial **Open Source** diseñada para funcionar con modelos locales, priorizando la privacidad, el rendimiento y la accesibilidad multiplataforma. El proyecto busca ofrecer una experiencia moderna disponible para escritorio, web y consola, impulsada por tecnologías abiertas y una comunidad colaborativa.
+
+---
+
 ## Proyectos
 
 | Proyecto | Descripción |
