@@ -29,17 +29,12 @@ También lidero el desarrollo de **ShodAgent**, una plataforma de inteligencia a
 | Proyecto | Estado | Descripción |
 |---|---|---|
 | [**ShodTeam**](https://github.shodzery.xyz) | **Activo** | Sitio oficial del equipo. Hub central de proyectos, miembros, comunidad, documentación, novedades y enlaces importantes del ecosistema Shodzery. |
-| **ShodAgent** | **Próximamente** | Plataforma de inteligencia artificial Open Source enfocada en modelos locales, privacidad, automatización segura y compatibilidad multiplataforma. |
-| **ShodVault** | **Próximamente** | Aplicación local para guardar conocimiento, notas y documentos con IA local, pensada para estudiantes, programadores e investigación. |
-| **ShodDesk** | **Próximamente** | Panel de control para proyectos Open Source con tareas, roadmap, documentación, versiones, commits, issues, builds y releases. |
-| **ShodModel Manager** | **Próximamente** | Administrador moderno para modelos locales de IA, con soporte para modelos instalados, benchmarks, perfiles y recomendaciones según el equipo. |
-| **ShodHub** | **Próximamente** | Centro principal de aplicaciones de ShodTeam para instalar, abrir, actualizar y administrar las herramientas del ecosistema Shodzery. |
-| **ShodChatAI** | **Próximamente** | Aplicación de inteligencia artificial local enfocada en privacidad, modelos locales, uso multiplataforma y configuraciones avanzadas. |
-| **Shodzery Launcher** | **Próximamente** | Launcher personalizado para la comunidad. Este proyecto tardará más en salir, ya que ShodTeam está desarrollando primero la base del ecosistema Shodzery y sus herramientas principales. |
+| **ShodHackTool** | **En Desarrollo** | Plataforma Open Source de ciberseguridad para organizar e instalar herramientas de hacking ético, investigación y auditorías autorizadas desde la terminal. |
+
 
 ---
-
-## Stack
+  
+  ## Stack
 
 <div align="left">
 
