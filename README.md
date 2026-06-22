@@ -29,7 +29,7 @@ También lidero el desarrollo de **ShodAgent**, una plataforma de inteligencia a
 | Proyecto | Estado | Descripción |
 |---|---|---|
 | [**ShodTeam**](https://github.shodzery.xyz) | **Activo** | Sitio oficial del equipo. Hub central de proyectos, miembros, comunidad, documentación, novedades y enlaces importantes del ecosistema Shodzery. |
-| **ShodHackTool** | **En Desarrollo** | Plataforma Open Source de ciberseguridad para organizar e instalar herramientas de hacking ético, investigación y auditorías autorizadas desde la terminal. |
+| [**ShodHackTool**](https://github.shodzery.xyz) | **En Desarrollo** | Plataforma Open Source de ciberseguridad para organizar e instalar herramientas de hacking ético, investigación y auditorías autorizadas desde la terminal. |
 
 
 ---
