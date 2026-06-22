@@ -20,7 +20,7 @@ Desarrollador Full Stack y especialista en ciberseguridad con base en Costa Rica
 
 Actualmente soy el fundador y propietario de **ShodTeam**, una organización enfocada en el desarrollo de software, proyectos open source, herramientas para desarrolladores, experiencias para gaming y tecnologías impulsadas por inteligencia artificial.
 
-También lidero el desarrollo de **ShodChatAI**, una plataforma de inteligencia artificial **Open Source** diseñada para funcionar con modelos locales, priorizando la privacidad, el rendimiento y la accesibilidad multiplataforma. El proyecto busca ofrecer una experiencia moderna disponible para escritorio, web y consola, impulsada por tecnologías abiertas y una comunidad colaborativa.
+También lidero el desarrollo de **ShodAgent**, una plataforma de inteligencia artificial **Open Source** diseñada para funcionar con modelos locales, priorizando la privacidad, el rendimiento y la accesibilidad multiplataforma. El proyecto busca ofrecer una experiencia moderna disponible para escritorio, web y consola, impulsada por tecnologías abiertas y una comunidad colaborativa.
 
 ---
 
@@ -28,7 +28,7 @@ También lidero el desarrollo de **ShodChatAI**, una plataforma de inteligencia 
 
 | Proyecto | Descripción |
 |---|---|
-| [**ShodChatAi**](https://github.shodzery.xyz) | Plataforma de inteligencia artificial Open Source enfocada en modelos locales, privacidad y compatibilidad multiplataforma. Saldrá al público próximamente. |
+| [**ShodAgent**](https://github.shodzery.xyz) | Plataforma de inteligencia artificial Open Source enfocada en modelos locales, privacidad y compatibilidad multiplataforma. Saldrá al público próximamente. |
 | [**Shodzery Launcher**](https://github.shodzery.xyz) | Launcher personalizado para la comunidad. Instalación rápida, optimizada y lista para jugar. |
 | [**ShodTeam**](https://github.shodzery.xyz) | Sitio oficial del equipo. Hub central de proyectos, miembros y comunidad. |
 
