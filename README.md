@@ -28,7 +28,7 @@ También lidero el desarrollo de **ShodChatAI**, una plataforma de inteligencia 
 
 | Proyecto | Descripción |
 |---|---|
-| [**ShodChatAI**](https://github.shodzery.xyz) | Plataforma de inteligencia artificial Open Source enfocada en modelos locales, privacidad y compatibilidad multiplataforma. Saldrá al público próximamente. |
+| [**ShodAgent**](https://github.shodzery.xyz) | Plataforma de inteligencia artificial Open Source enfocada en modelos locales, privacidad y compatibilidad multiplataforma. Saldrá al público próximamente. |
 | [**Shodzery Launcher**](https://github.shodzery.xyz) | Launcher personalizado para la comunidad. Instalación rápida, optimizada y lista para jugar. |
 | [**ShodTeam**](https://github.shodzery.xyz) | Sitio oficial del equipo. Hub central de proyectos, miembros y comunidad. |
 
