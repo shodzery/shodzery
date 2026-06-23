@@ -44,8 +44,8 @@
 <img src="https://streak-stats.demolab.com?user=shodzery&locale=es&mode=daily&theme=tokyonight&hide_border=true&border_radius=6&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="150" alt="Racha" />
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=shodzery&show_icons=true&theme=tokyonight&hide_border=true&border_radius=6&icon_color=38BDF8&title_color=38BDF8&text_color=e2e8f0&count_private=true&locale=es" height="150" alt="Stats" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
-
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shodzery&layout=compact&theme=tokyonight&hide_border=true&border_radius=6&title_color=38BDF8&text_color=e2e8f0&locale=es" height="150" alt="Lenguajes más usados" />
 </div>
 
 ---
