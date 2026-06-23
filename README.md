@@ -1,18 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f3460,70:16213e,100:0d1117&height=180&section=header&text=Shodzery&fontSize=48&fontColor=e2e8f0&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20%7C%20Costa%20Rica&descAlignY=65&descSize=14&descColor=94a3b8" />
-
-</div>
-
-<div align="center">
-
 [![Visitas](https://komarev.com/ghpvc/?username=shodzery&label=Visitas&color=38BDF8&style=flat-square)](https://github.com/shodzery)&nbsp;
 
 </div>
-
----
-
-Desarrollador Full Stack y especialista en ciberseguridad.
 
 ---
 
@@ -63,8 +53,6 @@ Desarrollador Full Stack y especialista en ciberseguridad.
 
 [![GitHub](https://img.shields.io/badge/GitHub-shodzery-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shodzery)&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-sh0dzery-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1278184976386359303)&nbsp;
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f3460,70:16213e,100:0d1117&height=100&section=footer" />
 
 *"El código es como el arte — pero que funciona."*
 
